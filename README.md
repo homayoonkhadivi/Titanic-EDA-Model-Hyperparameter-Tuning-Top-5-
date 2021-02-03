@@ -1,6 +1,7 @@
 ![kaggle-fundamentals](https://user-images.githubusercontent.com/57557590/106743629-e8cc4b00-6633-11eb-9acf-b37c149b9506.png)
 
-### Titanic - Machine Learning from Disaster
+### Titanic - Machine Learning from Disaster 
+(https://www.kaggle.com/c/titanic/overview)
 
 
 # The Challenge:
