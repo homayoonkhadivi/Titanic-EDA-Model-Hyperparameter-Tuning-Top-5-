@@ -46,7 +46,11 @@ In this Kaggle Competition, We want to predict if the passengers survived or not
 
 ![Survived](https://user-images.githubusercontent.com/57557590/106743398-9559fd00-6633-11eb-9239-b8d9b8d1dce3.PNG)
 
+The ratio of Survived and not-survived of the dataset
+
 ![Corr](https://user-images.githubusercontent.com/57557590/106743403-968b2a00-6633-11eb-9b26-6528bf5d1b40.PNG)
+
+The correlation matrix of the different features in the dataset
 
 ### The results of Machine Learning Algorithms could be described as bellow:
 ### Logistic Regression 81%
